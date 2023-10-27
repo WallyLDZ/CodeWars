@@ -23,6 +23,4 @@ public class aNeedleInTheHaystack {
         }
         throw new IllegalArgumentException("needle not found");
     }
-
-
 }
