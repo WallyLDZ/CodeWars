@@ -8,7 +8,7 @@ package tasks8kyu;
     ["hay", "junk", "hay", "hay", "moreJunk", "needle", "randomJunk"] --> "found the needle at position 5"
     Note: In COBOL, it should return "found the needle at position 6"*/
 
-public class aNeedleInTheHaystack {
+public class ANeedleInTheHaystack {
 
     public static String findNeedle(Object[] haystack) {
         // Your code here
